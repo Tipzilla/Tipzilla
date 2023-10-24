@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Tipzilla
 - 👀 I’m interested in front and back end programming
-- 🌱 I’m currently learning C#, Python, Java, HTML and CSS
+- 🌱 I’m currently learning C#, Python, Java, JavaScript, HTML and CSS
